@@ -25,6 +25,7 @@ Day to day: Kotlin, Android, Gradle. On the side: Go, Rust, Python, Claude Code 
 #### 🎮 Games
 
 - [**orebound**](https://github.com/yushman/orebound) — single-player 2D space mining where gravity is the core skill: undock from the carrier, dive into a planet's gravity well for ore and climb back out before the fuel runs dry. Godot 4, prototype stage.
+- [**pawnch**](https://github.com/yushman/pawnch) — Android chess for kids 6–12 where every capture is a full-screen character duel: impact, screen shake, VFX, sound and haptics instead of a piece silently vanishing. Godot 4, signed prototype.
 
 #### 📫 Contacts
 
