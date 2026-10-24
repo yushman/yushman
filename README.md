@@ -22,6 +22,10 @@ Day to day: Kotlin, Android, Gradle. On the side: Go, Rust, Python, Claude Code 
 - [**EntityIt**](https://github.com/yushman/EntityIt) — KSP processor that generates entities and two-way mappers for domain classes. On Maven Central.
 - [**literate**](https://github.com/yushman/literate) — IntelliJ plugin that fixes text typed in the wrong keyboard layout (`Ghbdtn` → `Привет`). On JetBrains Marketplace.
 
+#### 🎮 Games
+
+- [**orebound**](https://github.com/yushman/orebound) — single-player 2D space mining where gravity is the core skill: undock from the carrier, dive into a planet's gravity well for ore and climb back out before the fuel runs dry. Godot 4, prototype stage.
+
 #### 📫 Contacts
 
 [Telegram](https://t.me/yush_man) · [Habr Career](https://career.habr.com/chagiman)
